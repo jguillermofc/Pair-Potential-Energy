@@ -1,5 +1,5 @@
 # On the utilization of pair-potential energy functions in multi-objective optimization
-# Authors: Jesús Guillermo Falcón-Cardona, Edgar Covantes Osuna, Carlos A. Coello Coello and Hisao Ishibuchi
+## Authors: Jesús Guillermo Falcón-Cardona, Edgar Covantes Osuna, Carlos A. Coello Coello and Hisao Ishibuchi
 
 The file GenerateRefSets.zip contains the source code (in C language) to generate pair-potential energy-based reference sets.
 
