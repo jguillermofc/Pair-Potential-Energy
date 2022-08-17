@@ -1,0 +1,16 @@
+geometry, dimension, cardinality
+linear, 2, 100
+linear, 3, 100
+linear, 4, 100
+linear, 5, 100
+linear, 6, 100
+linear, 7, 100
+convex, 2, 100
+convex, 3, 100
+convex, 4, 100
+convex, 5, 100
+convex, 6, 100
+convex, 7, 100
+disconnected, 3, 100
+mixed, 3, 120
+
