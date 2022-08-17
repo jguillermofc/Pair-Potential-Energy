@@ -34,8 +34,4 @@ how to set $\alpha$ to generate the Pareto front approximations that adequately 
     * 3.4. Pair-potential energy-based archiving
 4. Conclusions and future work
 
-Aside from this supplementary material, in the following link you can download all the supplementary material, including plots, source code, and reference sets https://drive.google.com/drive/folders/1A5t6jugHHEUeAWwZ-amltfwxvNme0qOp?usp=sharing
-
-Also, you can find the source code (in C language) to generate pair-potential energy-based reference sets in the repository [Pair-Potential-Energy](https://github.com/jguillermofc/Pair-Potential-Energy/)
-
 **If a more detailed explanation is needed, we recommend reading the notebook side by side with a copy of the paper.**
