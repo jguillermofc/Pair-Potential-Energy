@@ -12,5 +12,6 @@ Shenzhen, People's Republic of China, 518055.
 
 The file GenerateRefSets.zip contains the source code (in C language) to generate pair-potential energy-based reference sets.
 
+## **Supplementary material**
 In the following link, you can download all the supplementary material, including plots, source code, and reference sets
 https://drive.google.com/drive/folders/1A5t6jugHHEUeAWwZ-amltfwxvNme0qOp?usp=sharing
