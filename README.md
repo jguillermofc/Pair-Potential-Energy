@@ -29,7 +29,7 @@ can be considered as supplementary material for **Section 3.2.2. Predicting $\al
     * 3.1. Approximately solving the PPFSS
     * 3.2. Analysis of parameters
         *  3.2.1. Approximating the optimal value of $\alpha$
-        *  [3.2.2. Predicting the optimal value of $\alpha$](https://github.com/jguillermofc/Pair-Potential-Energy/blob/d5a4727bd154ad1ecf0e16fdd03a4228e31d6d3d/PPF-predicting-alpha/pair-potential-functions-predicting-alpha.ipynb)
+        *  [3.2.2. Predicting the optimal value of ](https://github.com/jguillermofc/Pair-Potential-Energy/blob/d5a4727bd154ad1ecf0e16fdd03a4228e31d6d3d/PPF-predicting-alpha/pair-potential-functions-predicting-alpha.ipynb)$\alpha$
     * 3.3. PPF-based reference point sets
     * 3.4. PPF-based archiving
 4. Conclusions and future work
