@@ -16,7 +16,7 @@ This repository contains all the experimentation defined in the paper. The file 
 energy-based reference sets. The instructions for compiling and running the experiments are in the README.txt file inside .zip file.
 
 Also, folder PPF-predicting-alpha contains a companion notebook for the paper titled with the same name. For readability, the notebook 
-can be considered as supplementary material for **Section 3.2.2. Predicting $\alpha$**.
+can be considered as supplementary material for **Predicting the optimal value of $\alpha$**.
 
 **This repository omits everything else in the paper (except section 3.2.2):**
 
