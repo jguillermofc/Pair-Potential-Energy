@@ -20,7 +20,6 @@ can be considered as supplementary material for **Predicting the optimal value o
 
 **This repository omits everything else in the paper (except section 3.2.2):**
 
----
 1. Introduction
 2. Background
     * 2.1. Multi-objctive optimization
@@ -34,7 +33,7 @@ can be considered as supplementary material for **Predicting the optimal value o
     * 3.4. PPF-based archiving
 4. Conclusions and future work
 
-**If a more detailed explanation is needed, we recommend reading the notebook side by side with a copy of the paper.**
+**If a more detailed explanation is needed, we recommend reading the content of this repository side by side with a copy of the paper.**
 
 ## **Supplementary material**
 
