@@ -44,7 +44,7 @@ can be considered as supplementary material for **Predicting the optimal value o
 In the following link, you can download all the supplementary material, including plots, source code, and reference sets: [supplementary material](https://drive.google.com/drive/folders/1A5t6jugHHEUeAWwZ-amltfwxvNme0qOp?usp=sharing)
 
 ## Cite the paper
-If any part of this repository helps you in your research, you can cite your research using the following BibTeX entry:
+If any part of this repository helps you in your research, you can cite this research using the following BibTeX entry:
 
 @article{Falcon2023,<br />
 &emsp;author = {Jes{\\'u}s Guillermo Falc{\\'o}n-Cardona and Edgar {Covantes Osuna} and Carlos A. {Coello Coello} and Hisao Ishibuchi},<br />
