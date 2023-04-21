@@ -47,6 +47,7 @@ In the following link, you can download all the supplementary material, includin
 If the paper or the code provided in this repository helps you in your research, you can cite the paper using the following BibTeX entry:
 
 @article{Falcon2023,
+   author = {Jes{\'u}s Guillermo Falc{\'o}n-Cardona and Edgar {Covantes Osuna} and Carlos A. {Coello Coello} and Hisao Ishibuchi},
    title = {On the utilization of pair-potential energy functions in multi-objective optimization},
    journal = {Swarm and Evolutionary Computation},
    volume = {79},
@@ -54,6 +55,5 @@ If the paper or the code provided in this repository helps you in your research,
    year = {2023},
    issn = {2210-6502},
    doi = {https://doi.org/10.1016/j.swevo.2023.101308},
-   url = {https://www.sciencedirect.com/science/article/pii/S2210650223000810},
-   author = {Jes{\'u}s Guillermo Falc{\'o}n-Cardona and Edgar {Covantes Osuna} and Carlos A. {Coello Coello} and Hisao Ishibuchi}
+   url = {https://www.sciencedirect.com/science/article/pii/S2210650223000810}
 }
