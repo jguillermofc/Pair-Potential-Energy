@@ -44,6 +44,16 @@ can be considered as supplementary material for **Predicting the optimal value o
 In the following link, you can download all the supplementary material, including plots, source code, and reference sets: [supplementary material](https://drive.google.com/drive/folders/1A5t6jugHHEUeAWwZ-amltfwxvNme0qOp?usp=sharing)
 
 ## Cite the paper
-If the paper or the code provided in this repository helps you in your research, you can cite the paper using the following BibTeX entry:
+If any part of this repository helps you in your research, you can cite your research using the following BibTeX entry:
 
-`code`
+@article{Falcon2023,<br />
+&emsp;author = {Jes{\\'u}s Guillermo Falc{\\'o}n-Cardona and Edgar {Covantes Osuna} and Carlos A. {Coello Coello} and Hisao Ishibuchi},<br />
+&emsp;title = {On the utilization of pair-potential energy functions in multi-objective optimization},<br />
+&emsp;journal = {Swarm and Evolutionary Computation},<br />
+&emsp;volume = {79},<br />
+&emsp;pages = {101-308},<br />
+&emsp;year = {2023},<br />
+&emsp;issn = {2210-6502},<br />
+&emsp;doi = {<https://doi.org/10.1016/j.swevo.2023.101308>},<br />
+&emsp;url = {<https://www.sciencedirect.com/science/article/pii/S2210650223000810>}<br />
+}
